@@ -25,6 +25,6 @@ Populating the columns of the previous section proved to be quite difficult and 
   
 - What are some limitations of this dataset?
   Its small size and the small time frame it considers.
-- 
+
 - What are some other possible tables and/or graphs that we could create?
   Outcomes based on country or category. 
